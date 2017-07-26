@@ -75,6 +75,18 @@
     text-align: center
 }
 
+.ico-img {
+  display:inline-block;
+}
+
+.ico-a {
+  border:0; margin: 0 5px
+}
+
+.ico-div {
+  text-align:center; margin:0 auto; margin-top: 15px
+}
+
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 html {
     font-family: sans-serif;
